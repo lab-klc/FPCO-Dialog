@@ -2,7 +2,7 @@
 
 Official code and dataset for FPCO-Dialog, accepted at EMNLP2026 Main Conference.
 
-**Paper:** [FPCO-Dialog: A Multi-Turn False-Premise Benchmark for Correction and Cooperation in Vision-Language Models](https://arxiv.org/abs/2609.03331)
+**arXiv:** https://arxiv.org/abs/2609.03331
 
 ## Overview
 
